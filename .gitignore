@@ -12,7 +12,11 @@
 /build
 
 # misc
+*.sketch
+*.fig
+*.xd
 .DS_Store
+.prettierignore
 .env.local
 .env.development.local
 .env.test.local
